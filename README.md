@@ -1,4 +1,4 @@
-# 生意参谋关键词获取工具
+# SYCM Keyword Tool - 生意参谋关键词获取工具
 
 一款基于 Python + Selenium 的淘宝生意参谋搜索词自动提取工具，支持按类目层级批量采集关键词数据并导出为 Excel 文件。
 
@@ -28,15 +28,15 @@
 
 ### 方式一：直接使用 EXE（推荐）
 
-从 [Releases](https://github.com/Assute/生意参谋关键词工具/releases) 页面下载最新的 `.exe` 文件，双击即可运行，无需安装 Python 环境。
+从 [Releases](https://github.com/Assute/sycm-keyword-tool/releases) 页面下载最新的 `.exe` 文件，双击即可运行，无需安装 Python 环境。
 
 ### 方式二：从源码运行
 
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/Assute/生意参谋关键词工具.git
-cd 生意参谋关键词工具
+git clone https://github.com/Assute/sycm-keyword-tool.git
+cd sycm-keyword-tool
 ```
 
 2. **安装依赖**
